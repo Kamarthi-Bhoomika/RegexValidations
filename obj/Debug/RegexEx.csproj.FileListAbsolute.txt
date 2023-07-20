@@ -1,0 +1,8 @@
+D:\Mphasis\.net\Day9\RegexEx\RegexEx\bin\Debug\RegexEx.exe.config
+D:\Mphasis\.net\Day9\RegexEx\RegexEx\bin\Debug\RegexEx.exe
+D:\Mphasis\.net\Day9\RegexEx\RegexEx\bin\Debug\RegexEx.pdb
+D:\Mphasis\.net\Day9\RegexEx\RegexEx\obj\Debug\RegexEx.csproj.AssemblyReference.cache
+D:\Mphasis\.net\Day9\RegexEx\RegexEx\obj\Debug\RegexEx.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\.net\Day9\RegexEx\RegexEx\obj\Debug\RegexEx.csproj.CoreCompileInputs.cache
+D:\Mphasis\.net\Day9\RegexEx\RegexEx\obj\Debug\RegexEx.exe
+D:\Mphasis\.net\Day9\RegexEx\RegexEx\obj\Debug\RegexEx.pdb
